@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpGitDemo", "CSharpGitDemo.csproj", "{A3BF5075-5C69-4408-B768-AFCEFE74E789}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Palindrome", "..\CSharp_Palindrome\CSharp_Palindrome.csproj", "{F0F15963-ABB2-402F-82B0-7054DDC88CC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A3BF5075-5C69-4408-B768-AFCEFE74E789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3BF5075-5C69-4408-B768-AFCEFE74E789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3BF5075-5C69-4408-B768-AFCEFE74E789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0F15963-ABB2-402F-82B0-7054DDC88CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F15963-ABB2-402F-82B0-7054DDC88CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F15963-ABB2-402F-82B0-7054DDC88CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F15963-ABB2-402F-82B0-7054DDC88CC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
